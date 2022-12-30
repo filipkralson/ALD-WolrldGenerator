@@ -1,5 +1,9 @@
 # ALD-WorldGenerator
 
+## Vypracovali
+- Filip Král
+- Jakub Klimo
+
 ## Popis aplikace
 Aplikace po spuštění začne postupně generovat validní dlaždice, než bude zaplněna
 celá hrací plocha (rozměr plochy se může měnit, dafalutně nastaven na 10x10). Algoritmus, kterým bude vybrána další dlaždice na vhodné místo je
