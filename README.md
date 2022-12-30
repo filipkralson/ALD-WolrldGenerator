@@ -1,4 +1,4 @@
-# ALD-WolrldGenerator
+# ALD-WorldGenerator
 
 ## Popis aplikace
 Aplikace po spuštění začne postupně generovat validní dlaždice, než bude zaplněna
